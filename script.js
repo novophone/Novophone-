@@ -55,8 +55,8 @@ const PHONES = [
   { name: 'iPhone 13',         img: 'apple-iphone-13',            gen: '13',   prices: { compatible: 90, premium: 110, original: 140 } },
   { name: 'iPhone 13 Pro',     img: 'apple-iphone-13-pro',        gen: '13',   prices: { compatible: 100, premium: 120, original: 150 } },
   { name: 'iPhone 13 Pro Max', img: 'apple-iphone-13-pro-max',    gen: '13',   prices: { compatible: 110, premium: 130, original: 160 } },
-  { name: 'iPhone 14',         img: 'apple-iphone-14',            gen: '14',   prices: { compatible: 100, premium: 110, original: 150 } },
-  { name: 'iPhone 14 Plus',    img: 'apple-iphone-14-plus',       gen: '14',   prices: { compatible: 110, premium: 120, original: 180 } },
+  { name: 'iPhone 14',         img: 'apple-iphone-14',            gen: '14',   prices: { compatible: 100, premium: 130, original: 150 } },
+  { name: 'iPhone 14 Plus',    img: 'apple-iphone-14-plus',       gen: '14',   prices: { compatible: 110, premium: 140, original: 180 } },
   { name: 'iPhone 14 Pro',     img: 'apple-iphone-14-pro',        gen: '14',   prices: { compatible: 120, premium: 150, original: 200 } },
   { name: 'iPhone 14 Pro Max', img: 'apple-iphone-14-pro-max-',   gen: '14',   prices: { compatible: 130, premium: 160, original: 220 } },
   { name: 'iPhone 15',         img: 'apple-iphone-15',            gen: '15',   prices: { compatible: 110, premium: 140, original: 180 } },
@@ -70,9 +70,9 @@ const PHONES = [
   { name: 'iPhone 16e',        img: 'apple-iphone-16e',           gen: '16',   prices: { compatible: 120, premium: 150, original: 180 } },
   { name: 'iPhone Air',        img: 'apple-iphone-air',           gen: '17',   prices: { premium: 260 } },
   { name: 'iPhone 17',         img: 'apple-iphone-17',            gen: '17',   prices: { compatible: 150, premium: 190 } },
-  { name: 'iPhone 17 Pro',     img: 'apple-iphone-17-pro',        gen: '17',   prices: { compatible: 150, premium: 190 } },
+  { name: 'iPhone 17 Pro',     img: 'apple-iphone-17-pro',        gen: '17',   prices: { compatible: 150, premium: 220 } },
   { name: 'iPhone 17 Pro Max', img: 'apple-iphone-17-pro-max',    gen: '17',   prices: { compatible: 150, premium: 290 } },
-  { name: 'iPhone 17e',        img: 'apple-iphone-17e',           gen: '17',   prices: { compatible: 150, premium: 190 } },
+  { name: 'iPhone 17e',        img: 'apple-iphone-17e',           gen: '17',   prices: { compatible: 120, premium: 150, original: 180 } },
 ];
 
 const FILTERS = [
